@@ -63,7 +63,7 @@
     {
       "type": "mixed",
       "tag": "mixed-in",
-      "listen": "bot.fazadi.info",
+      "listen": "",
       "listen_port": 2020,
       "sniff": true,
       "sniff_override_destination": true
@@ -71,7 +71,7 @@
     {
       "type": "direct",
       "tag": "dns-in",
-      "listen": "bot.fazadi.info",
+      "listen": "",
       "listen_port": 2096
     }
   ],
